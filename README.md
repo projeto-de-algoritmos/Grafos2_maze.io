@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Maze.io
 
 **Conteúdo da Disciplina**: Grafos 2<br>
 
@@ -17,6 +17,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ## Instalação 
 **Linguagem**: Python 3.9 ou superior<br>
 **Framework**: Pyamaze<br>
+**SO**: Windows 10 / Ubuntu 22.04</br>
 
 ## Uso 
 Clone o repositório
@@ -33,7 +34,3 @@ Execute o arquivo main.py
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
