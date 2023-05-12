@@ -49,7 +49,7 @@ def dijkstra(m,*h,start=None):
 
 
 if __name__=='__main__':
-    myMaze=maze(10,15)
+    myMaze=maze(15,15)
     myMaze.CreateMaze(1,4,loopPercent=100)
     # myMaze.CreateMaze(loadMaze='dijkMaze.csv')
 
