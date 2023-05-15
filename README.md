@@ -9,7 +9,7 @@
 | 20/2017263  |  Vinícius de Oliveira Santos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é criar um labirinto que usará dijkstra para encontrar o menor caminho do ponto inicial ao ponto de chegada.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
@@ -18,6 +18,14 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Linguagem**: Python 3.9 ou superior<br>
 **Framework**: Pyamaze<br>
 **SO**: Windows 10 / Ubuntu 22.04</br>
+<br>
+Para instalar o framework no windows digite:<br>
+pip install pyamaze<br>
+<br>
+Para instalar o framework no linux digite o comando e faça as seguintes alterações:<br>
+***<br>
+<br>
+***<br>
 
 ## Uso 
 Clone o repositório
@@ -33,4 +41,5 @@ Execute o arquivo main.py
 `python3 src/main.py`
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Guia de funcionamento explicado no vídeo a baixo:<br>
+***<br>
